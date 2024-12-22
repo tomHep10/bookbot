@@ -1,2 +1,2 @@
 # bookbot
-BookBot is my first project!
+Quick text file reader project from boot.dev
